@@ -1,5 +1,5 @@
 import { Element } from "react-scroll";
-import { faq } from "../constant";
+import { faq } from "../constant/index.js";
 import FaqItem from "../components/FaqItem";
 
 const Faq = () => {
