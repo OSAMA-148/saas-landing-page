@@ -1,4 +1,4 @@
-import { testimonials } from "../constant/index.js";
+import { testimonials } from "../constant/index.jsx";
 import TestimonialItem from "../components/TestimonialItem";
 
 const Testimonials = () => {

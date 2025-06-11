@@ -1,7 +1,6 @@
 import { Element } from "react-scroll";
-import { links, logos } from "../constant/index.js";
-import Marker from "../components/Marker"; // Make sure the path is correct
-
+import { links, logos } from "../constant/index.jsx";
+import { Marker } from "../components/Marker";
 const Download = () => {
     return (
         <section>
